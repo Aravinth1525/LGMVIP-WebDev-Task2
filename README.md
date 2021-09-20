@@ -10,15 +10,15 @@
 
 ## Preview
 
-# Landing Page
+### Landing Page
 
 <img width="1440" alt="Screenshot 2021-09-21 at 12 02 22 AM" src="https://user-images.githubusercontent.com/79074310/134055553-b984ac6a-f0ee-4472-be48-3d1fe87e36e0.png">
 
-# Loading Screen
+### Loading Screen
 
 <img width="1440" alt="Screenshot 2021-09-21 at 12 02 35 AM" src="https://user-images.githubusercontent.com/79074310/134055607-64ce06d3-0da5-4d64-b3c9-0a9417d274dc.png">
 
-# User Details
+### User Details
 
 <img width="1440" alt="Screenshot 2021-09-21 at 12 02 43 AM" src="https://user-images.githubusercontent.com/79074310/134055617-b450efce-dcc4-4562-910d-a7ab7b68c657.png">
 
